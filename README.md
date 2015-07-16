@@ -27,6 +27,10 @@ The color values used in this module are from [mrmrs/colors](http://clrs.cc/).
   <div class="flex-auto center m1 p1 border border-darken-2">.border-darken-2</div>
   <div class="flex-auto center m1 p1 border border-darken-3">.border-darken-3</div>
   <div class="flex-auto center m1 p1 border border-darken-4">.border-darken-4</div>
+  <div class="flex-auto center m1 p1 border border-lighten-1">.border-lighten-1</div>
+  <div class="flex-auto center m1 p1 border border-lighten-2">.border-lighten-2</div>
+  <div class="flex-auto center m1 p1 border border-lighten-3">.border-lighten-3</div>
+  <div class="flex-auto center m1 p1 border border-lighten-4">.border-lighten-4</div>
 </div>
 ```
 
