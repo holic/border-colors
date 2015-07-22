@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/basscss/border-colors",
   "dependencies": {
-    "basscss-defaults": "^2.1.0"
+    "basscss-defaults": "^2.1.1"
   }
 }
