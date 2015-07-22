@@ -8,9 +8,9 @@
     "url": "https://github.com/basscss/border-colors.git"
   },
   "keywords": [
+    "basscss",
     "css",
-    "oocss",
-    "basscss"
+    "oocss"
   ],
   "author": "Brent Jackson",
   "license": "MIT",
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/basscss/border-colors",
   "dependencies": {
-    "basscss-defaults": "^2.0.1"
+    "basscss-defaults": "^2.1.0"
   }
 }
